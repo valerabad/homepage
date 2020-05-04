@@ -507,8 +507,10 @@ article {
   justify-content: center;
 }
 .avatar {
+border-radius: 50%;
+
   position: relative;
-  max-width: 15rem;
+  max-width: 12rem;
   display: block;
   flex: 1 0 auto;
 }
