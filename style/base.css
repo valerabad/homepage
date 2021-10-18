@@ -1042,3 +1042,7 @@ footer {
 .uppercase {
     text-transform: uppercase;
 }
+
+.center-img {
+  text-align: center;
+}
